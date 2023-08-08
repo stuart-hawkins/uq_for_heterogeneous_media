@@ -1,0 +1,14 @@
+name,format,description
+angle,double,azimuth angle of observation point
+real1,double,real part of noisy data for incident wave with direction [cos(0);sin(0)]
+imag1,double,imaginary part of noisy data for incident wave with direction [cos(0);sin(0)]
+real2,double,real part of noisy data for incident wave with direction [cos(pi/3);sin(pi/3)]
+imag2,double,imaginary part of noisy data for incident wave with direction [cos(pi/3);sin(pi/3)]
+real3,double,real part of noisy data for incident wave with direction [cos(2*pi/3);sin(2*pi/3)]
+imag3,double,imaginary part of noisy data for incident wave with direction [cos(2*pi/3);sin(2*pi/3)]
+real4,double,real part of noisy data for incident wave with direction [cos(pi);sin(pi)]
+imag4,double,imaginary part of noisy data for incident wave with direction [cos(pi);sin(pi)]
+real5,double,real part of noisy data for incident wave with direction [cos(4*pi/3);sin(4*pi/3)]
+imag5,double,imaginary part of noisy data for incident wave with direction [cos(4*pi/3);sin(4*pi/3)]
+real6,double,real part of noisy data for incident wave with direction [cos(5*pi/3);sin(5*pi/3)]
+imag6,double,imaginary part of noisy data for incident wave with direction [cos(5*pi/3);sin(5*pi/3)]

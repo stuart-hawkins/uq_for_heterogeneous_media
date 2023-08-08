@@ -5,4 +5,4 @@ Files:
 - far_field_data.csv   raw noisy far-field data
 - datadictionary.csv   data dictionary explaining field names etc.
 
-- Stuart C. Hawkins - 8th August 2023
+Uploaded by Stuart C. Hawkins - 8th August 2023
